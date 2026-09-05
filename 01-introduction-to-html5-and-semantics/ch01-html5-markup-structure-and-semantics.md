@@ -265,7 +265,7 @@ HTML5 introduces native `<video>` and `<audio>` tags with multi-codec source fal
 
 ## 8. 8 Solved Practice Questions and Exam Solutions
 
-### Question 1: <section> vs <article> Semantic Distinction
+### Question 1: `<section>` vs `<article>` Semantic Distinction
 - **`<article>`**: Self-contained, independent composition reusable or syndicatable across contexts (e.g., blog post, news story).
 - **`<section>`**: Generic thematic grouping of content, typically introduced by a heading.
 
